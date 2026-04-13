@@ -14,6 +14,14 @@ mcp-servers/gmail-thinqlo-mcp/token.json
 Thumbs.db
 ~$*
 
+# セッションログ（大容量）
+projects/**/*.jsonl
+projects/**/tool-results/
+projects/**/subagents/
+
+# シェルスナップショット
+shell-snapshots/
+
 # 大容量バイナリ（必要時だけ個別追加）
 *.mov
 *.mp4
