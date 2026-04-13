@@ -1,0 +1,13 @@
+{
+  "name": "instagram-mcp-server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Instagram Graph API MCP Server for SHUWAN",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}

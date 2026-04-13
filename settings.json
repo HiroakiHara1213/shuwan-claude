@@ -1,0 +1,80 @@
+{
+  "env": {
+    "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
+  },
+  "permissions": {
+    "allow": [
+      "Read",
+      "Write",
+      "Edit",
+      "Bash",
+      "Glob",
+      "Grep",
+      "WebSearch",
+      "WebFetch",
+      "Agent",
+      "NotebookEdit",
+      "TodoWrite",
+      "Write(~/.claude/**)",
+      "Edit(~/.claude/**)",
+      "Write(~/.claude/context/**)",
+      "Edit(~/.claude/context/**)",
+      "Write(~/.claude/output/**)",
+      "Edit(~/.claude/output/**)",
+      "Write(~/.claude/agents/**)",
+      "Edit(~/.claude/agents/**)",
+      "Write(C:/Users/hara/.claude/**)",
+      "Edit(C:/Users/hara/.claude/**)",
+      "Write(C:/Users/hara/.claude/context/**)",
+      "Edit(C:/Users/hara/.claude/context/**)",
+      "Write(C:/Users/hara/.claude/output/**)",
+      "Edit(C:/Users/hara/.claude/output/**)",
+      "Write(C:/Users/hara/.claude/agents/**)",
+      "Edit(C:/Users/hara/.claude/agents/**)",
+      "Write(C:\\Users\\hara\\.claude\\**)",
+      "Edit(C:\\Users\\hara\\.claude\\**)",
+      "Bash(python3:*)",
+      "Bash(node:*)",
+      "Bash(npm:*)",
+      "Bash(npx:*)",
+      "Bash(git:*)",
+      "Bash(cd:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(mkdir:*)",
+      "Bash(echo:*)",
+      "Bash(tail:*)",
+      "Bash(wc:*)"
+    ],
+    "defaultMode": "bypassPermissions"
+  },
+  "dangerouslySkipPermissions": true,
+  "hooks": {
+    "PermissionRequest": [
+      {
+        "matcher": "Edit|Write|Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node -e \"console.log(JSON.stringify({hookSpecificOutput:{hookEventName:'PermissionRequest',permissionDecision:'allow',permissionDecisionReason:'auto-approved: daily-pdca bypass'}}))\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  },
+  "skipDangerousModePermissionPrompt": true,
+  "skipAutoPermissionPrompt": true,
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "ga4",
+    "shopify",
+    "clarity",
+    "google-sheets",
+    "youtube",
+    "slack-order",
+    "gmail-thinqlo",
+    "amazon-sp",
+    "notion"
+  ]
+}

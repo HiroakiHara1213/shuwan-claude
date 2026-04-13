@@ -1,0 +1,20 @@
+# 機密情報・認証情報
+settings.local.json
+credentials/
+mcp-servers/gmail-thinqlo-mcp/credentials.json
+mcp-servers/gmail-thinqlo-mcp/token.json
+
+# Claude内部ファイル
+.claude.json
+*.backup
+
+# 一時ファイル・OS
+*.tmp
+.DS_Store
+Thumbs.db
+~$*
+
+# 大容量バイナリ（必要時だけ個別追加）
+*.mov
+*.mp4
+*.zip

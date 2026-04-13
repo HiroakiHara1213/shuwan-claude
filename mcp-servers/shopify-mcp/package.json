@@ -1,0 +1,10 @@
+{
+  "name": "shopify-mcp-server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Shopify Admin API MCP Server - ShopifyQL analytics, orders, products",
+  "main": "index.js",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "mcpServers": {
+    "ga4": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\hara\\.claude\\mcp-servers\\ga4-mcp\\index.js"
+      ],
+      "env": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\hara\\.claude\\mcp-servers\\ga4-mcp\\credentials.json",
+        "GA4_PROPERTY_ID": "512073550",
+        "GA4_SHOPIFY_PROPERTY_ID": "452176286"
+      }
+    },
+    "shopify": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\hara\\.claude\\mcp-servers\\shopify-mcp\\index.js"
+      ],
+      "env": {
+        "SHOPIFY_STORE": "7089d1-4e.myshopify.com",
+        "SHOPIFY_ACCESS_TOKEN": "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"
+      }
+    },
+    "clarity": {
+      "command": "npx",
+      "args": [
+        "@microsoft/clarity-mcp-server",
+        "--clarity_api_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ4M0FCMDhFNUYwRDMxNjdEOTRFMTQ3M0FEQTk2RTcyRDkwRUYwRkYiLCJ0eXAiOiJKV1QifQ.eyJqdGkiOiIxMjczY2MxMC03YzY4LTQ1YjMtYjBiMS0wYjY5NzRhYzZmYmMiLCJzdWIiOiIzMDAxMDEwMzYwNjExMzUwIiwic2NvcGUiOiJEYXRhLkV4cG9ydCIsIm5iZiI6MTc3NDU5MTM5NywiZXhwIjo0OTI4MTkxMzk3LCJpYXQiOjE3NzQ1OTEzOTcsImlzcyI6ImNsYXJpdHkiLCJhdWQiOiJjbGFyaXR5LmRhdGEtZXhwb3J0ZXIifQ.G7oikIBC7q7NxOSdPcLExAlfWBWkcDFjF0lrYOnObNsQOsrZ1OGoyPnQLe8l-EfQrPHnRrn_90QOFkzIN_nW6RjbEwwhz1_xfZY7kkm4x8ljYd6R2cXHxYrCmyuQA8MjR2kBUjie09HhZcRhUzJzSOfnRLROEFBdA9xp4GKc4Mno94NZmonkg6Dz7B5ODqVtVZPRMkhfHopNqimBLRGbNFyhzTLJVwlYxuodNDbcGvWX7fz45nD_j171R36b4mys5tRBv5_m-R-Ld-JtmVn7UhXDtoSa17WL9d6xCKP7O4_OFzyBDXxdfewF2a1QLSimQK2urM1dqdPeBe5kBYGz1Q"
+      ]
+    },
+    "google-sheets": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-gsheets@latest"
+      ],
+      "env": {
+        "GOOGLE_PROJECT_ID": "fleet-tensor-491503-m3",
+        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\hara\\.claude\\credentials\\google-service-account.json"
+      }
+    },
+    "youtube": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\hara\\.claude\\mcp-servers\\youtube-mcp\\index.js"
+      ],
+      "env": {
+        "YOUTUBE_API_KEY": "AIzaSyCNsylGzC4zNsNrJqJn6CGV5oFUCRk7q9U"
+      }
+    },
+    "slack-order": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\hara\\.claude\\mcp-servers\\slack-mcp\\index.js"
+      ],
+      "env": {
+        "SLACK_BOT_TOKEN": "xoxb-7298997697328-10799291012613-nJjzF2PTnOPqsOQzu3uxFA7D"
+      }
+    },
+    "gmail-thinqlo": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\hara\\.claude\\mcp-servers\\gmail-thinqlo-mcp\\index.js"
+      ]
+    },
+    "notion": {
+      "command": "npx",
+      "args": ["-y", "@notionhq/notion-mcp-server"],
+      "env": {
+        "NOTION_TOKEN": "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"
+      }
+    },
+    "amazon-sp": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\hara\\.claude\\mcp-servers\\amazon-sp-mcp\\index.js"
+      ],
+      "env": {
+        "LWA_CLIENT_ID": "amzn1.application-oa2-client.7658ab2608e04f3caa77b44329cb59b2",
+        "LWA_CLIENT_SECRET": "amzn1.oa2-cs.v1.182a151bb44ab790600a3510d0d66486cf3fd1e7cd22cd9c73eaf81e2c351afc",
+        "LWA_REFRESH_TOKEN": "Atzr|IwEBIOWkn7iM0gHlQ_27rjp4u6-6lHInuNtQpq0-cwwVXQirGehz8VR11qy1ecpO0GKLGoNVuHXuDpMFn9MaUy41AkjsbqMDGovuB-lbLJ35wESU_kELqaZ9M1wLYFTZ1kSUQvDm_yWx_Vee4Eo7dVlcCTNft5MDQe7nfpvSH9QqzqMmkVsCX1xMh6bl6GOIaXcq9g52ZMMLAy4DQxFAH2QY4JeHzXabipbjaEARq0Jq1Jkxak8Chin9UwJ2JgYDXd24t8wE8WtYVzbxukEoG_78wRKZtKPexPhQpIyx1eRUBuLBBO4AfqTFr1eGJ65w9uByMIQ4vgcn0e76bw545HBNAKX9",
+        "AMAZON_SELLER_ID": "A3J4O2Z5D0Z82M",
+        "AMAZON_MARKETPLACE_ID": "A1VC38T7YXB528"
+      }
+    }
+  }
+}

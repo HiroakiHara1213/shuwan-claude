@@ -1,0 +1,252 @@
+C:\Users\hara\ai-agent-dashboard\node_modules\@emnapi\wasi-threads\package.json:9:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@emnapi\wasi-threads\package.json:13:        "import": "./dist/wasi-threads.d.mts",
+C:\Users\hara\ai-agent-dashboard\node_modules\@emnapi\wasi-threads\package.json:17:      "import": "./dist/wasi-threads.mjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint-community\regexpp\package.json:35:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint-community\regexpp\package.json:38:      "import": "./index.mjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint-community\regexpp\package.json:55:    "test": "nyc _mocha \"test/*.ts\" --reporter dot --timeout 10000",
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint-community\regexpp\package.json:56:    "debug": "mocha --require ts-node/register/transpile-only \"test/*.ts\" --reporter dot --timeout 10000",
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint-community\regexpp\package.json:65:    "watch": "_mocha \"test/*.ts\" --require ts-node/register --reporter dot --timeout 10000 --watch-extensions ts --watch --growl"
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\plugin-kit\package.json:9:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\plugin-kit\package.json:14:    "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\eslintrc\package.json:8:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\eslintrc\package.json:10:      "import": "./lib/index.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\eslintrc\package.json:16:      "import": "./lib/index-universal.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\eslintrc\package.json:32:    "lint": "eslint . --report-unused-disable-directives",
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\eslintrc\package.json:70:    "import-fresh": "^3.2.1",
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\object-schema\package.json:8:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\object-schema\package.json:13:    "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@emnapi\runtime\package.json:9:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@emnapi\runtime\package.json:13:        "import": "./dist/emnapi.d.mts",
+C:\Users\hara\ai-agent-dashboard\node_modules\@emnapi\runtime\package.json:17:      "import": "./dist/emnapi.mjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\zod-validation-error\package.json:39:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\zod-validation-error\package.json:43:      "import": "./v4/index.mjs"
+C:\Users\hara\ai-agent-dashboard\node_modules\zod-validation-error\package.json:48:      "import": "./v3/index.mjs"
+C:\Users\hara\ai-agent-dashboard\node_modules\zod-validation-error\package.json:53:      "import": "./v4/index.mjs"
+C:\Users\hara\ai-agent-dashboard\node_modules\zod-validation-error\package.json:95:    "eslint-plugin-import": "^2.29.1",
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\eslintrc\node_modules\globals\package.json:50:			"node/no-unsupported-features/es-syntax": "off"
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint-community\eslint-utils\package.json:19:    "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint-community\eslint-utils\package.json:21:            "import": "./index.mjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint-community\eslint-utils\package.json:37:        "coverage": "opener ./coverage/lcov-report/index.html",
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint-community\eslint-utils\package.json:48:        "test-coverage": "c8 mocha --reporter dot \"test/*.mjs\"",
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint-community\eslint-utils\package.json:49:        "test": "mocha --reporter dot \"test/*.mjs\"",
+C:\Users\hara\ai-agent-dashboard\node_modules\@babel\compat-data\package.json:15:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@babel\compat-data\package.json:24:    "build-data": "./scripts/download-compat-table.sh && node ./scripts/build-data.mjs && node ./scripts/build-modules-support.mjs && node ./scripts/build-bugfixes-targets.mjs"
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint-community\eslint-utils\node_modules\eslint-visitor-keys\package.json:8:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint-community\eslint-utils\node_modules\eslint-visitor-keys\package.json:11:        "import": "./lib/index.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint-community\eslint-utils\node_modules\eslint-visitor-keys\package.json:62:    "test:open-coverage": "c8 report --reporter lcov && opener coverage/lcov-report/index.html",
+C:\Users\hara\ai-agent-dashboard\node_modules\@emnapi\core\package.json:9:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@emnapi\core\package.json:13:        "import": "./dist/emnapi-core.d.mts",
+C:\Users\hara\ai-agent-dashboard\node_modules\@emnapi\core\package.json:17:      "import": "./dist/emnapi-core.mjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\core\package.json:7:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\core\package.json:9:      "import": "./dist/esm/types.d.ts",
+C:\Users\hara\ai-agent-dashboard\node_modules\@babel\code-frame\package.json:25:    "import-meta-resolve": "^4.1.0",
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\config-array\package.json:9:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\config-array\package.json:14:    "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\config-array\package.json:37:    "build:std__path": "rollup -c rollup.std__path-config.js && node fix-std__path-imports",
+C:\Users\hara\ai-agent-dashboard\node_modules\@babel\helper-module-transforms\package.json:18:    "@babel/helper-module-imports": "^7.28.6",
+C:\Users\hara\ai-agent-dashboard\node_modules\@babel\helper-compilation-targets\package.json:13:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@babel\helper-globals\package.json:15:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@babel\helper-validator-identifier\package.json:15:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@babel\helper-validator-option\package.json:15:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@babel\helper-module-imports\package.json:2:  "name": "@babel/helper-module-imports",
+C:\Users\hara\ai-agent-dashboard\node_modules\@babel\helper-module-imports\package.json:6:  "homepage": "https://babel.dev/docs/en/next/babel-helper-module-imports",
+C:\Users\hara\ai-agent-dashboard\node_modules\@babel\helper-module-imports\package.json:14:    "directory": "packages/babel-helper-module-imports"
+C:\Users\hara\ai-agent-dashboard\node_modules\ajv\package.json:38:    "reporter": [
+C:\Users\hara\ai-agent-dashboard\node_modules\@tybys\wasm-util\package.json:8:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@tybys\wasm-util\package.json:11:      "import": "./lib/mjs/index.mjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\@tybys\wasm-util\package.json:50:    "eslint-plugin-import": "^2.26.0",
+C:\Users\hara\ai-agent-dashboard\node_modules\@napi-rs\wasm-runtime\package.json:59:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@napi-rs\wasm-runtime\package.json:61:      "import": "./runtime.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\@napi-rs\wasm-runtime\package.json:65:      "import": "./dist/fs.js"
+C:\Users\hara\ai-agent-dashboard\node_modules\@babel\helper-string-parser\package.json:23:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@humanwhocodes\retry\package.json:9:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@humanwhocodes\retry\package.json:14:    "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@tailwindcss\vite\package.json:20:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\config-helpers\package.json:8:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@eslint\config-helpers\package.json:13:    "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@jridgewell\resolve-uri\package.json:17:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@jridgewell\resolve-uri\package.json:23:        "import": "./dist/resolve-uri.mjs"
+C:\Users\hara\ai-agent-dashboard\node_modules\@humanwhocodes\module-importer\package.json:2:  "name": "@humanwhocodes/module-importer",
+C:\Users\hara\ai-agent-dashboard\node_modules\@humanwhocodes\module-importer\package.json:4:  "description": "Universal module importer for Node.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\@humanwhocodes\module-importer\package.json:5:  "main": "src/module-importer.cjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\@humanwhocodes\module-importer\package.json:6:  "module": "src/module-importer.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\@humanwhocodes\module-importer\package.json:8:  "types": "dist/module-importer.d.ts",
+C:\Users\hara\ai-agent-dashboard\node_modules\@humanwhocodes\module-importer\package.json:9:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@humanwhocodes\module-importer\package.json:10:    "require": "./src/module-importer.cjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\@humanwhocodes\module-importer\package.json:11:    "import": "./src/module-importer.js"
+C:\Users\hara\ai-agent-dashboard\node_modules\@humanwhocodes\module-importer\package.json:36:    "test:unit": "c8 mocha tests/module-importer.test.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\@humanwhocodes\module-importer\package.json:42:    "url": "git+https://github.com/humanwhocodes/module-importer.git"
+C:\Users\hara\ai-agent-dashboard\node_modules\@jridgewell\trace-mapping\package.json:17:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@jridgewell\trace-mapping\package.json:20:        "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\zod\package.json:35:    "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\zod\package.json:52:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\zod\package.json:57:      "import": "./index.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\zod\package.json:63:      "import": "./mini/index.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\zod\package.json:69:      "import": "./locales/index.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\zod\package.json:75:      "import": "./v3/index.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\zod\package.json:81:      "import": "./v4/index.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\zod\package.json:87:      "import": "./v4-mini/index.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\zod\package.json:93:      "import": "./v4/mini/index.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\zod\package.json:99:      "import": "./v4/core/index.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\zod\package.json:105:      "import": "./v4/locales/index.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\zod\package.json:111:      "import": "./v4/locales/*",
+C:\Users\hara\ai-agent-dashboard\node_modules\zod\package.json:122:  "support": {
+C:\Users\hara\ai-agent-dashboard\node_modules\acorn\package.json:8:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\acorn\package.json:11:        "import": "./dist/acorn.mjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\chalk\package.json:45:		"supports-color": "^7.1.0"
+C:\Users\hara\ai-agent-dashboard\node_modules\chalk\package.json:51:		"import-fresh": "^3.1.0",
+C:\Users\hara\ai-agent-dashboard\node_modules\@rolldown\pluginutils\package.json:18:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@jridgewell\sourcemap-codec\package.json:17:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@jridgewell\sourcemap-codec\package.json:20:        "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@humanfs\node\package.json:8:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@humanfs\node\package.json:9:    "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@vitejs\plugin-react\package.json:32:  "imports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@vitejs\plugin-react\package.json:35:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\caniuse-lite\package.json:11:    "support"
+C:\Users\hara\ai-agent-dashboard\node_modules\@humanfs\core\package.json:8:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@humanfs\core\package.json:9:    "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@tailwindcss\node\package.json:20:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@tailwindcss\node\package.json:23:      "import": "./dist/index.mjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\tsconfig-utils\package.json:13:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\visitor-keys\package.json:13:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\argparse\package.json:3:  "description": "CLI arguments parser. Native port of python's argparse.",
+C:\Users\hara\ai-agent-dashboard\node_modules\argparse\package.json:22:    "coverage": "npm run test && nyc report --reporter html"
+C:\Users\hara\ai-agent-dashboard\node_modules\baseline-browser-mapping\package.json:5:  "description": "A library for obtaining browser versions with their maximum supported Baseline feature set and Widely Available status.",
+C:\Users\hara\ai-agent-dashboard\node_modules\baseline-browser-mapping\package.json:6:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\baseline-browser-mapping\package.json:38:    "test:jasmine-browser": "npx jasmine-browser-runner runSpecs --config ./spec/support/jasmine-browser.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\baseline-browser-mapping\package.json:56:    "jasmine-spec-reporter": "^7.0.0",
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\scope-manager\package.json:13:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\visitor-keys\node_modules\eslint-visitor-keys\package.json:8:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\visitor-keys\node_modules\eslint-visitor-keys\package.json:11:        "import": "./lib/index.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\@jridgewell\gen-mapping\package.json:17:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@jridgewell\gen-mapping\package.json:20:        "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@jridgewell\remapping\package.json:18:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@jridgewell\remapping\package.json:21:        "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\utils\package.json:13:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\project-service\package.json:13:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\eslint-plugin\package.json:16:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\parser\package.json:12:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\graceful-fs\package.json:18:    "posttest": "nyc report"
+C:\Users\hara\ai-agent-dashboard\node_modules\graceful-fs\package.json:38:    "import-fresh": "^2.0.0",
+C:\Users\hara\ai-agent-dashboard\node_modules\graceful-fs\package.json:51:    "reporter": "classic"
+C:\Users\hara\ai-agent-dashboard\node_modules\esquery\package.json:21:    "reporter": [
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\typescript-estree\package.json:12:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\detect-libc\package.json:11:    "test": "semistandard && nyc --reporter=text --check-coverage --branches=100 ava test/unit.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\globals\package.json:58:		"get-port": "^7.1.0",
+C:\Users\hara\ai-agent-dashboard\node_modules\globals\package.json:79:					"import/no-anonymous-default-export": "off",
+C:\Users\hara\ai-agent-dashboard\node_modules\globals\package.json:97:					"n/no-unsupported-features/node-builtins": "off"
+C:\Users\hara\ai-agent-dashboard\node_modules\globals\package.json:110:					"n/no-unsupported-features/node-builtins": "off",
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\eslint-plugin\node_modules\ignore\package.json:19:    "===================== import ======================": "",
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\eslint-plugin\node_modules\ignore\package.json:21:    "test:ts": "ts-node ./test/import/simple.ts",
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\eslint-plugin\node_modules\ignore\package.json:23:    "test:ts:16": "ts-node --compilerOptions '{\"moduleResolution\": \"Node16\", \"module\": \"Node16\"}' ./test/import/simple.ts && tsc ./test/import/simple.ts --lib ES6 --moduleResolution Node16 --module Node16 && node ./test/import/simple.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\eslint-plugin\node_modules\ignore\package.json:24:    "test:cjs:16": "ts-node --compilerOptions '{\"moduleResolution\": \"Node16\", \"module\": \"Node16\"}' ./test/import/simple.cjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\eslint-plugin\node_modules\ignore\package.json:25:    "test:mjs:16": "ts-node --compilerOptions '{\"moduleResolution\": \"Node16\", \"module\": \"Node16\"}' ./test/import/simple.mjs && babel -o ./test/import/simple-mjs.js ./test/import/simple.mjs && node ./test/import/simple-mjs.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\eslint-plugin\node_modules\ignore\package.json:29:    "tap": "tap --reporter classic",
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\eslint-plugin\node_modules\ignore\package.json:40:    "report": "tap --coverage-report=html"
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\eslint-plugin\node_modules\ignore\package.json:74:    "eslint-plugin-import": "^2.28.0",
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\types\package.json:13:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\escalade\package.json:15:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\escalade\package.json:18:        "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\escalade\package.json:31:        "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\glob-parent\package.json:36:    "reporter": [
+C:\Users\hara\ai-agent-dashboard\node_modules\espree\package.json:8:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\espree\package.json:11:        "import": "./espree.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\espree\package.json:74:    "test:cjs": "mocha --color --reporter progress --timeout 30000 tests/lib/commonjs.cjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\espree\package.json:75:    "test:esm": "c8 mocha --color --reporter progress --timeout 30000 tests/lib/**/*.js"
+C:\Users\hara\ai-agent-dashboard\node_modules\eslint-visitor-keys\package.json:8:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\eslint-visitor-keys\package.json:11:        "import": "./lib/index.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\eslint-visitor-keys\package.json:52:    "test:open-coverage": "c8 report --reporter lcov && opener coverage/lcov-report/index.html",
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\type-utils\package.json:13:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\enhanced-resolve\package.json:37:    "type-report": "rimraf coverage && npm run cover:types && npm run cover:report && open-cli coverage/lcov-report/index.html",
+C:\Users\hara\ai-agent-dashboard\node_modules\debug\package.json:45:    "mocha-lcov-reporter": "^1.2.0",
+C:\Users\hara\ai-agent-dashboard\node_modules\debug\package.json:50:    "supports-color": {
+C:\Users\hara\ai-agent-dashboard\node_modules\debug\package.json:61:      "import/extensions": "off"
+C:\Users\hara\ai-agent-dashboard\node_modules\vite\package.json:19:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\vite\package.json:33:  "imports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\vite\package.json:78:    "@rollup/plugin-dynamic-import-vars": "2.1.4",
+C:\Users\hara\ai-agent-dashboard\node_modules\vite\package.json:112:    "postcss-import": "^16.1.1",
+C:\Users\hara\ai-agent-dashboard\node_modules\vite\package.json:116:    "resolve.exports": "^2.0.3",
+C:\Users\hara\ai-agent-dashboard\node_modules\@types\react-dom\package.json:43:    "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\electron-to-chromium\package.json:21:    "report": "nyc report --reporter=text-lcov > coverage.lcov"
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\typescript-estree\node_modules\balanced-match\package.json:12:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\typescript-estree\node_modules\balanced-match\package.json:15:      "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\typescript-estree\node_modules\balanced-match\package.json:60:    "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\typescript-estree\node_modules\minimatch\package.json:12:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\typescript-estree\node_modules\minimatch\package.json:15:      "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\typescript-estree\node_modules\minimatch\package.json:57:    "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\eslint-scope\package.json:7:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\eslint-scope\package.json:9:      "import": "./lib/index.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\uri-js\package.json:22:    "build:es5:min": "uglifyjs dist/es5/uri.all.js --support-ie8 --output dist/es5/uri.all.min.js --in-source-map dist/es5/uri.all.js.map --source-map uri.all.min.js.map --comments --compress --mangle --pure-funcs merge subexp && mv uri.all.min.js.map dist/es5/ && cp dist/es5/uri.all.d.ts dist/es5/uri.all.min.d.ts",
+C:\Users\hara\ai-agent-dashboard\node_modules\fdir\package.json:96:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\fdir\package.json:98:      "import": "./dist/index.mjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\eslint-plugin-react-refresh\package.json:9:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\flatted\package.json:19:    "coverage": "mkdir -p ./coverage; c8 report --reporter=text-lcov > ./coverage/lcov.info"
+C:\Users\hara\ai-agent-dashboard\node_modules\flatted\package.json:70:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\flatted\package.json:73:      "import": "./esm/index.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\update-browserslist-db\package.json:28:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\fast-levenshtein\package.json:4:  "description": "Efficient implementation of Levenshtein algorithm  with locale-specific collator support.",
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\typescript-estree\node_modules\brace-expansion\package.json:8:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\typescript-estree\node_modules\brace-expansion\package.json:11:      "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\@typescript-eslint\typescript-estree\node_modules\brace-expansion\package.json:52:    "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\fast-json-stable-stringify\package.json:47:    "reporter": [
+C:\Users\hara\ai-agent-dashboard\node_modules\flat-cache\package.json:34:    "test:ci:cache": "c8 --reporter=lcov mocha -R spec test/specs",
+C:\Users\hara\ai-agent-dashboard\node_modules\fast-deep-equal\package.json:48:    "reporter": [
+C:\Users\hara\ai-agent-dashboard\node_modules\file-entry-cache\package.json:23:    "test:ci": "npm run eslint --silent && c8 --reporter=lcov mocha -R spec test/specs",
+C:\Users\hara\ai-agent-dashboard\node_modules\eslint\package.json:12:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\eslint\package.json:24:      "default": "./lib/unsupported-api.js"
+C:\Users\hara\ai-agent-dashboard\node_modules\eslint\package.json:118:    "@humanwhocodes/module-importer": "^1.0.1",
+C:\Users\hara\ai-agent-dashboard\node_modules\typescript-eslint\package.json:12:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\lru-cache\package.json:14:    "coveragerport": "tap --coverage-report=html",
+C:\Users\hara\ai-agent-dashboard\node_modules\@types\react\package.json:150:    "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\lightningcss\package.json:8:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\lightningcss\package.json:10:    "import": "./node/index.mjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\lightningcss\package.json:89:    "wasm:build": "cargo build --target wasm32-unknown-unknown -p lightningcss_node && wasm-opt target/wasm32-unknown-unknown/debug/lightningcss_node.wasm --asyncify --pass-arg=asyncify-imports@env.await_promise_sync -Oz -o wasm/lightningcss_node.wasm && node scripts/build-wasm.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\lightningcss\package.json:90:    "wasm:build-release": "cargo build --target wasm32-unknown-unknown -p lightningcss_node --release && wasm-opt target/wasm32-unknown-unknown/release/lightningcss_node.wasm --asyncify --pass-arg=asyncify-imports@env.await_promise_sync -Oz -o wasm/lightningcss_node.wasm && node scripts/build-wasm.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\lodash.merge\package.json:4:  "description": "The Lodash method `_.merge` exported as a module.",
+C:\Users\hara\ai-agent-dashboard\node_modules\json-schema-traverse\package.json:38:    "reporter": [
+C:\Users\hara\ai-agent-dashboard\node_modules\typescript\package.json:53:        "@types/source-map-support": "^0.5.10",
+C:\Users\hara\ai-agent-dashboard\node_modules\typescript\package.json:76:        "mocha-fivemat-progress-reporter": "^0.1.0",
+C:\Users\hara\ai-agent-dashboard\node_modules\typescript\package.json:77:        "monocart-coverage-reports": "^2.12.1",
+C:\Users\hara\ai-agent-dashboard\node_modules\typescript\package.json:81:        "source-map-support": "^0.5.21",
+C:\Users\hara\ai-agent-dashboard\node_modules\typescript\package.json:110:        "source-map-support": false,
+C:\Users\hara\ai-agent-dashboard\node_modules\keyv\package.json:4:	"description": "Simple key-value storage with support for multiple backends",
+C:\Users\hara\ai-agent-dashboard\node_modules\json-buffer\package.json:3:  "description": "JSON parse & stringify that supports binary via bops & base64",
+C:\Users\hara\ai-agent-dashboard\node_modules\jsesc\package.json:42:    "cover": "istanbul cover --report 'html' --verbose --dir 'coverage' 'tests/tests.js'",
+C:\Users\hara\ai-agent-dashboard\node_modules\tslib\package.json:29:    "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\tslib\package.json:35:            "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\magic-string\package.json:24:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\magic-string\package.json:27:      "import": "./dist/magic-string.es.mjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\magic-string\package.json:48:    "source-map-support": "^0.5.21",
+C:\Users\hara\ai-agent-dashboard\node_modules\json5\package.json:21:    "coverage": "tap --coverage-report html test",
+C:\Users\hara\ai-agent-dashboard\node_modules\json5\package.json:23:    "lint-report": "eslint .",
+C:\Users\hara\ai-agent-dashboard\node_modules\json5\package.json:28:    "test": "run-s lint-report tap",
+C:\Users\hara\ai-agent-dashboard\node_modules\json5\package.json:57:    "eslint-plugin-import": "^2.16.0",
+C:\Users\hara\ai-agent-dashboard\node_modules\resolve-from\package.json:28:		"import"
+C:\Users\hara\ai-agent-dashboard\node_modules\js-yaml\package.json:29:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\js-yaml\package.json:31:      "import": "./dist/js-yaml.mjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\js-yaml\package.json:39:    "coverage": "npm run lint && nyc mocha && nyc report --reporter html",
+C:\Users\hara\ai-agent-dashboard\node_modules\js-yaml\package.json:40:    "demo": "npm run lint && node support/build_demo.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\js-yaml\package.json:42:    "browserify": "rollup -c support/rollup.config.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\import-fresh\package.json:2:	"name": "import-fresh",
+C:\Users\hara\ai-agent-dashboard\node_modules\import-fresh\package.json:4:	"description": "Import a module while bypassing the cache",
+C:\Users\hara\ai-agent-dashboard\node_modules\import-fresh\package.json:6:	"repository": "sindresorhus/import-fresh",
+C:\Users\hara\ai-agent-dashboard\node_modules\import-fresh\package.json:13:	"exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\ts-api-utils\package.json:16:	"exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\ts-api-utils\package.json:19:				"import": "./lib/index.d.ts",
+C:\Users\hara\ai-agent-dashboard\node_modules\ts-api-utils\package.json:22:			"import": "./lib/index.js",
+C:\Users\hara\ai-agent-dashboard\node_modules\react-dom\package.json:48:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\nanoid\package.json:36:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\nanoid\package.json:44:      "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\nanoid\package.json:58:      "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\nanoid\package.json:70:      "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\nanoid\package.json:82:      "import": {
+C:\Users\hara\ai-agent-dashboard\node_modules\tinyglobby\package.json:9:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\tinyglobby\package.json:11:      "import": "./dist/index.mjs",
+C:\Users\hara\ai-agent-dashboard\node_modules\react\package.json:24:  "exports": {
+C:\Users\hara\ai-agent-dashboard\node_modules\ignore\package.json:17:    "tap": "tap --reporter classic",
+C:\Users\hara\ai-agent-dashboard\node_modules\ignore\package.json:27:    "report": "tap --coverage-report=html",
+C:\Users\hara\ai-agent-dashboard\node_modules\ignore\package.json:28:    "posttest": "npm run report && codecov"
+C:\Users\hara\ai-agent-dashboard\node_modules\ignore\package.json:62:    "eslint-plugin-import": "^2.28.0",
+C:\Users\hara\ai-agent-dashboard\node_modules\jiti\package.json:4:  "description": "Runtime typescript and ESM support for Node.js",
+
+[Showing results with pagination = limit: 250]

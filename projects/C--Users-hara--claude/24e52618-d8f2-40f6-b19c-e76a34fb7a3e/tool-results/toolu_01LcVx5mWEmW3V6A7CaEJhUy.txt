@@ -1,0 +1,252 @@
+C:\Users\hara\.claude\context\communication\integrated-plan.md-78-- 「しゅわんグラス一般販売開始」の告知クリエイティブ制作が急務
+C:\Users\hara\.claude\context\communication\integrated-plan.md-79-
+C:\Users\hara\.claude\context\communication\integrated-plan.md-80-### コンバージョン強化の最優先コピー（v3追加）
+C:\Users\hara\.claude\context\communication\integrated-plan.md:81:- WebSearch確認: 「日本酒ファン500人中90%がSHUWANの方が美味しいと回答」の定量エビデンスを商品ページのファーストビューに掲載すべき
+C:\Users\hara\.claude\context\communication\integrated-plan.md-82-- 「味香り戦略研究所」のデータを科学的根拠として活用（信頼性の担保）
+C:\Users\hara\.claude\context\communication\integrated-plan.md-83-
+C:\Users\hara\.claude\context\communication\integrated-plan.md-84-### 4月に向けた施策優先リスト
+C:\Users\hara\.claude\context\communication\integrated-plan.md-85-1. ECトップページ2商品並列表示の完成確認（今週中）
+C:\Users\hara\.claude\context\communication\integrated-plan.md-86-2. 花見×日本酒×SHUWANのInstagramリール入稿（3月末）
+C:\Users\hara\.claude\context\communication\integrated-plan.md-87-3. しゅわんグラス一般販売のLPおよびバナー制作（4月第1週）
+C:\Users\hara\.claude\context\communication\integrated-plan.md:88:4. Amazon商品ページへの「90%が美味しい」エビデンス訴求追加
+C:\Users\hara\.claude\context\communication\integrated-plan.md-89-5. 父の日ギフトセット（桐箱）の特集LP準備着手（4月中）
+C:\Users\hara\.claude\context\communication\integrated-plan.md-90-
+C:\Users\hara\.claude\context\communication\integrated-plan.md-91-## 【2026-03-27 日次レビュー追記】Communication Planner評価
+--
+C:\Users\hara\.claude\context\communication\integrated-plan.md-119-| 3/31 | 花見リールInstagram入稿 | 制作者 | 🔴高 |
+C:\Users\hara\.claude\context\communication\integrated-plan.md-120-| 4/1週 | ヴィノスやまざきPOP制作 | デザイナー | 🔴高 |
+C:\Users\hara\.claude\context\communication\integrated-plan.md-121-| 4/1週 | しゅわんグラスLP・バナー制作 | デザイナー | 🟡中 |
+C:\Users\hara\.claude\context\communication\integrated-plan.md:122:| 4/中旬 | Amazon「90%おいしい」エビデンス訴求追加 | 担当者 | 🟡中 |
+C:\Users\hara\.claude\context\communication\integrated-plan.md-123-| 4/末 | 父の日LP準備着手 | デザイナー | 🟢低 |
+C:\Users\hara\.claude\context\communication\integrated-plan.md-124-
+C:\Users\hara\.claude\context\communication\integrated-plan.md-125-## 2026-03-27 v2 差分更新
+--
+C:\Users\hara\.claude\context\communication\integrated-plan.md-145-| 広告クリエイティブ制作 | 3月完了 | しゅわんグラス広告（PMAX日予算¥3,500）3/30稼働開始 | △ 遅延（月末でようやく稼働） |
+C:\Users\hara\.claude\context\communication\integrated-plan.md-146-| ECトップ2商品並列表示 | 3/25依頼 | 深田氏着手→完了未確認（6日経過） | × 未確認 |
+C:\Users\hara\.claude\context\communication\integrated-plan.md-147-| 花見リール入稿 | 3/31期限 | 3/27制作指示→入稿状況未確認 | × 期限当日・要確認 |
+C:\Users\hara\.claude\context\communication\integrated-plan.md:148:| 「90%おいしい」掲載 | 3月中 | 未実施 | × 4月第1週に持ち越し |
+C:\Users\hara\.claude\context\communication\integrated-plan.md-149-| Amazon A+コンテンツ | 4月第2週 | 未着手（計画通り） | - |
+C:\Users\hara\.claude\context\communication\integrated-plan.md-150-| 父の日LP準備 | 4月末着手 | 未着手（計画通り） | - |
+C:\Users\hara\.claude\context\communication\integrated-plan.md-151-| MAKUAKE準備 | 4月着手 | 未着手（計画通り） | - |
+--
+C:\Users\hara\.claude\context\communication\integrated-plan.md-154-
+C:\Users\hara\.claude\context\communication\integrated-plan.md-155-**反省:**
+C:\Users\hara\.claude\context\communication\integrated-plan.md-156-- EC流入施策（GA4・広告クリエイティブ・花見リール）の実装が月末にずれ込み、3月のEC売上未達（85碗/目標180碗）の一因
+C:\Users\hara\.claude\context\communication\integrated-plan.md:157:- 「90%おいしい」エビデンスがECページに未掲載のまま1ヶ月経過。最速のCVR改善施策が放置されている
+C:\Users\hara\.claude\context\communication\integrated-plan.md-158-- BtoB向けコミュニケーション（POP制作・営業資料）は好調だが、EC向けのクリエイティブ投資が不足
+C:\Users\hara\.claude\context\communication\integrated-plan.md-159-
+C:\Users\hara\.claude\context\communication\integrated-plan.md-160-**4月最重要施策（優先順）:**
+C:\Users\hara\.claude\context\communication\integrated-plan.md:161:1. **「90%おいしい」エビデンス+Makuakeレビュー掲載**（4/7期限）→ CVR改善の最速施策
+C:\Users\hara\.claude\context\communication\integrated-plan.md-162-2. **CRAFT SAKE WEEK出展検討**（4/3意思決定）→ 年間最大の認知機会
+C:\Users\hara\.claude\context\communication\integrated-plan.md-163-3. **Amazon A+コンテンツ申請**（4/14）→ Amazon CVR改善
+C:\Users\hara\.claude\context\communication\integrated-plan.md-164-4. **購入後レビュー依頼CRM設定**（4/7）→ リピート率改善の仕組み化
+--
+C:\Users\hara\.claude\context\market\competitors.md-164-2. **機能性重視ガラス・ステンレス**: 東洋佐々木・glasscalico等。薄さ・食洗機対応・保温性が訴求点
+C:\Users\hara\.claude\context\market\competitors.md-165-
+C:\Users\hara\.claude\context\market\competitors.md-166-### SHUWANの競合優位性（v3確認・更新）
+C:\Users\hara\.claude\context\market\competitors.md:167:1. **科学的根拠の唯一性**: 「味香り戦略研究所調べ」「90%が美味しい」の定量エビデンスは競合に存在しない
+C:\Users\hara\.claude\context\market\competitors.md-168-2. **日本酒専用磁器**: ガラスでも錫でも産地陶器でもない独自カテゴリ
+C:\Users\hara\.claude\context\market\competitors.md-169-3. **Makuake実績（2,317万円）**: クラウドファンディング成功が信頼性証明
+C:\Users\hara\.claude\context\market\competitors.md-170-4. **プロ認証**: ミシュラン星付き店・30以上の著名酒蔵が使用→BtoB営業の最強材料
+--
+C:\Users\hara\.claude\context\market\lp-analysis.md-95-### 4月以降のLP改善優先課題（思想②→③への接続）
+C:\Users\hara\.claude\context\market\lp-analysis.md-96-1. **GA4データ蓄積開始（4/1〜）**: ページ別PV・CVR・直帰率の実計測値を取得 → 改善PDCAを4月中旬から開始
+C:\Users\hara\.claude\context\market\lp-analysis.md-97-2. **トップページ改修完了確認**: 2商品並列表示が完了しているかを4/1に確認
+C:\Users\hara\.claude\context\market\lp-analysis.md:98:3. **「90%が美味しい」エビデンス配置**: Shopify TOP・商品ページへの訴求文言配置 → CVR改善の最速施策
+C:\Users\hara\.claude\context\market\lp-analysis.md-99-4. **Amazon A+コンテンツ**: Brand Registry確認→申請（4月第2週）
+C:\Users\hara\.claude\context\market\lp-analysis.md-100-5. **PMAX語句別LP最適化**: 「日本酒 プレゼント」流入→ギフトLP、「酒器」流入→機能LP のように分岐
+C:\Users\hara\.claude\context\market\lp-analysis.md-101-
+--
+C:\Users\hara\.claude\context\market\market-trends.md-98-- 若年層向け: 発泡性・フレーバー系日本酒が新ファン獲得に貢献中
+C:\Users\hara\.claude\context\market\market-trends.md-99-
+C:\Users\hara\.claude\context\market\market-trends.md-100-### SHUWAN公式サイト・口コミ（WebSearch確認）
+C:\Users\hara\.claude\context\market\market-trends.md:101:- 公式訴求: 「日本酒ファン500人超の飲み比べ体験で90%がSHUWANの方が美味しいと回答」
+C:\Users\hara\.claude\context\market\market-trends.md-102-- 科学根拠: 「猪口・ワイングラスと比較してリンゴ・バナナ系成分が多く、刺激臭成分が少ない（味香り戦略研究所調べ）」
+C:\Users\hara\.claude\context\market\market-trends.md-103-- しゅわんグラス一般販売: 2026年3月13日正式発表。Makuake終了後の一般販売ルートが確立
+C:\Users\hara\.claude\context\market\market-trends.md-104-- Amazon商品ページ確認: B0DYD2DRKL（SHUWAN）が存在。食洗機対応・270ml・磁器として出品中
+--
+C:\Users\hara\.claude\context\strategy\annual-plan.md-109-| 食洗機品質問題（しゅわんグラス） | 高 | 継続中 | 4/7中央硝子回答を待って対処方針決定 |
+C:\Users\hara\.claude\context\strategy\annual-plan.md-110-| Q1目標大幅未達による士気低下 | 中 | 高 | 「基盤構築期」として再定義。3月前年比19.4倍という成長事実を強調 |
+C:\Users\hara\.claude\context\strategy\annual-plan.md-111-| 外販単価の低下が続く | 中 | 中〜高 | 磁器碗アップセル標準化・外販先への提案書改訂 |
+C:\Users\hara\.claude\context\strategy\annual-plan.md:112:| EC CVR改善の遅れ（GA4データ蓄積に時間） | 中 | 高 | 4月中旬〜のファネル分析を確実に実施。「90%おいしい」掲載は4/7に即着手 |
+C:\Users\hara\.claude\context\strategy\annual-plan.md-113-| CRAFT SAKE WEEK出展費用が過大 | 低〜中 | 未確認 | 4/3までに費用確認→費用対効果判断 |
+--
+C:\Users\hara\.claude\context\market\reviews-wom.md-45-- プロの評価: 「香りを適度に逃がし、適度に籠らせる。日本酒の香りと味を最もよく取れる」（専門家）
+C:\Users\hara\.claude\context\market\reviews-wom.md-46-
+C:\Users\hara\.claude\context\market\reviews-wom.md-47-### 定量的エビデンス（WebSearch確認）
+C:\Users\hara\.claude\context\market\reviews-wom.md:48:- 日本酒ファン500人超の飲み比べ体験: 90%が「SHUWANの方が美味しい」と回答
+C:\Users\hara\.claude\context\market\reviews-wom.md-49-- しゅわんグラスMakuake: 1,911名のサポーター、1,210万円達成（2421%）
+C:\Users\hara\.claude\context\market\reviews-wom.md-50-- SHUWANプロフェッショナル（旧SHUWAN標準）: Makuakeで1,149名/1,107万円（2215%）
+C:\Users\hara\.claude\context\market\reviews-wom.md-51-- メディア掲載: LEON、Chronos、GOETHE、dancyu、SAKETIMES、日本テレビほか
+--
+C:\Users\hara\.claude\context\market\reviews-wom.md-55-- 紙袋商品に対し5つ星レビューを獲得（notes.md記録済み）
+C:\Users\hara\.claude\context\market\reviews-wom.md-56-
+C:\Users\hara\.claude\context\market\reviews-wom.md-57-### 口コミ強化のアクション（v3更新）
+C:\Users\hara\.claude\context\market\reviews-wom.md:58:1. 「日本酒ファン500人中90%が美味しい」の訴求を全ECページ・SNSに展開（最強のコンバージョンコピー）
+C:\Users\hara\.claude\context\market\reviews-wom.md-59-2. Amazon B0DYD2DRKLのレビュー数増加施策（購入後メールでのレビュー誘導）
+C:\Users\hara\.claude\context\market\reviews-wom.md-60-3. しゅわんグラスの「食洗機対応」をキーメッセージとして訴求（利便性訴求でギフト需要拡大）
+C:\Users\hara\.claude\context\market\reviews-wom.md-61-
+--
+C:\Users\hara\.claude\context\market\reviews-wom.md-67-- Shopify返金¥7,640発生 → ネガティブ口コミにつながる可能性を監視
+C:\Users\hara\.claude\context\market\reviews-wom.md-68-
+C:\Users\hara\.claude\context\market\reviews-wom.md-69-### 口コミ訴求ポイント（継続）
+C:\Users\hara\.claude\context\market\reviews-wom.md:70:- 「90%が美味しい」エビデンスの全ECページ展開が最優先
+C:\Users\hara\.claude\context\market\reviews-wom.md-71-- 食洗機対応訴求は品質確認（4/7期限）完了まで一時停止中
+C:\Users\hara\.claude\context\market\reviews-wom.md-72-
+C:\Users\hara\.claude\context\market\reviews-wom.md-73-## 2026-03-30 日次PDCA: 口コミ動向更新
+--
+C:\Users\hara\.claude\context\market\reviews-wom.md-83-- 【課題】SNSモニタリングの仕組みが未確立。sns-monitoring-plan.mdの実行が必要
+C:\Users\hara\.claude\context\market\reviews-wom.md-84-
+C:\Users\hara\.claude\context\market\reviews-wom.md-85-### 口コミ獲得の優先アクション（継続）
+C:\Users\hara\.claude\context\market\reviews-wom.md:86:1. 「90%が美味しい」エビデンスの全ECページ展開（最優先・継続）
+C:\Users\hara\.claude\context\market\reviews-wom.md-87-2. Amazonレビュー数増加施策（購入後メールでのレビュー誘導）
+C:\Users\hara\.claude\context\market\reviews-wom.md-88-3. 食洗機対応訴求は品質確認（4/7期限）完了まで一時停止中（継続）
+C:\Users\hara\.claude\context\market\reviews-wom.md-89-
+--
+C:\Users\hara\.claude\context\market\reviews-wom.md-92-### 新規口コミ確認（3/30 WebSearch）
+C:\Users\hara\.claude\context\market\reviews-wom.md-93-- 【ファクト】しゅわんグラスのMakuakeプロジェクトページ（https://www.makuake.com/project/shuwan_glass/）には複数のサポーターコメントが存在。具体的なレビュー文:
+C:\Users\hara\.claude\context\market\reviews-wom.md-94-  - 「グラスでは感じにくい繊細な香りや味のニュアンスが、驚くほどクリアに伝わってくる」
+C:\Users\hara\.claude\context\market\reviews-wom.md:95:  - 「これ…全然違う！と思わず声が出たくらい。作り手の思いをそのまま味わえるような酒器って、なかなかない」
+C:\Users\hara\.claude\context\market\reviews-wom.md-96-  - 「ワイングラスでは感じたことのない香りの立ち上がり。フルーティで華やかな香りがクリアかつ立体的に広がる」
+C:\Users\hara\.claude\context\market\reviews-wom.md-97-- 【ファクト】Amazon商品ページ（B0DYD2DRKL）は存在確認。具体的なレビュー数・星評価は未取得（セラーセントラル未接続）
+C:\Users\hara\.claude\context\market\reviews-wom.md-98-- 【ファクト】Yahoo!ショッピング: shuwanキーワードで商品ランキング表示あり（https://shopping.yahoo.co.jp/ranking/keyword/?p=shuwan）
+--
+C:\Users\hara\.claude\context\market\reviews-wom.md-119-- 【情報不足】SNS（Instagram #SHUWAN）投稿数: モニタリングツール未導入のため未計測
+C:\Users\hara\.claude\context\market\reviews-wom.md-120-
+C:\Users\hara\.claude\context\market\reviews-wom.md-121-### 購買意欲に直結する口コミ資産の整理（月末棚卸し）
+C:\Users\hara\.claude\context\market\reviews-wom.md:122:- **最強エビデンス**: 「日本酒ファン500人超・90%が美味しいと回答」（味香り戦略研究所調べ）
+C:\Users\hara\.claude\context\market\reviews-wom.md:123:- **感情的コピー**: 「全然違う！と思わず声が出た」「ここまで変わるものかと」（Makuakeサポーター）
+C:\Users\hara\.claude\context\market\reviews-wom.md-124-- **専門家評価**: 「香りを適度に逃がし、適度に籠らせる。日本酒の香りと味を最もよく取れる」
+C:\Users\hara\.claude\context\market\reviews-wom.md-125-- **Makuake実績**: 2回合計2,317万円超・サポーター3,060名以上（SHUWAN磁器1,149名+グラス1,911名）
+C:\Users\hara\.claude\context\market\reviews-wom.md-126-- **メディア掲載**: LEON、GOETHE、dancyu、日本テレビ「一茂×かまいたち ゲンバ」など
+--
+C:\Users\hara\.claude\context\market\reviews-wom.md-129-- 【課題】上記の強力な口コミ資産がEC（Shopify・Amazon）のページに十分反映されていない
+C:\Users\hara\.claude\context\market\reviews-wom.md-130-- 【課題】AmazonレビューはECカテゴリの検索順位に直結するが、競合比でレビュー数が劣勢
+C:\Users\hara\.claude\context\market\reviews-wom.md-131-- 【課題】SNSモニタリング未確立のためUGCの自然発生を捕捉できていない
+C:\Users\hara\.claude\context\market\reviews-wom.md:132:- 【推奨アクション①】Makuakeレビューコピー「全然違う！」「香りに驚き」をShopify商品ページ・Amazon A+コンテンツに即時反映（期限: 4/7）
+C:\Users\hara\.claude\context\market\reviews-wom.md-133-- 【推奨アクション②】Amazonレビュー依頼メール（購入後自動送信）の設定を4月第2週までに完了
+C:\Users\hara\.claude\context\market\reviews-wom.md-134-- 【推奨アクション③】食洗機品質確認（4/7期限）完了後、「食洗機OK」を全ECページに追記→口コミ訴求軸を増やす
+C:\Users\hara\.claude\context\market\reviews-wom.md-135-
+C:\Users\hara\.claude\context\market\reviews-wom.md-136-### 顧客の「買いたい」気持ちに貢献する口コミ戦略（思想⑤）
+C:\Users\hara\.claude\context\market\reviews-wom.md:137:- 「90%が美味しい」は認知→欲求フェーズへの最短ルート。TOP画面への配置が最優先
+C:\Users\hara\.claude\context\market\reviews-wom.md-138-- 「ワイングラスより香りが違う」体験コメントは「行動」フェーズのトリガーとして機能
+C:\Users\hara\.claude\context\market\reviews-wom.md-139-- ギフト用途の「贈って喜ばれた」コメントはセカンダリターゲット（ギフト購入者）の継続訴求に有効
+C:\Users\hara\.claude\context\market\reviews-wom.md-140-
+--
+C:\Users\hara\.claude\context\sales\customer-insights.md-137-2. **いまでや海外輸出チャネル** — 4/4 FOB価格提案→5月LOI締結目標
+C:\Users\hara\.claude\context\sales\customer-insights.md-138-3. **CRAFT SAKE WEEK 2026（4/17-29）** — BtoB営業機会として活用。出展者・来場者への導入提案に最適
+C:\Users\hara\.claude\context\sales\customer-insights.md-139-4. **K-キャビン法人購入（ロゴ入りSHUWAN 30個見積り中）** — 法人ノベルティ需要の開拓
+C:\Users\hara\.claude\context\sales\customer-insights.md:140:5. **Makuakeレビューの営業転用** — 「全然違う！」「香りに驚き」を提案資料・POPに活用
+C:\Users\hara\.claude\context\sales\customer-insights.md-141-
+C:\Users\hara\.claude\context\sales\customer-insights.md-142-### 営業課題
+C:\Users\hara\.claude\context\sales\customer-insights.md-143-1. **外販単価低下**: グラス偏重（比率3.6:1）で加重平均¥1,810（目標¥2,500比-28%）→ アップセルでSHUWAN磁器比率を上げる
+--
+C:\Users\hara\.claude\context\tech\claude-code-tips.md-133-3. B0DYD2DRKLに対してモジュール追加
+C:\Users\hara\.claude\context\tech\claude-code-tips.md-134-   - モジュール1: ヘッダー画像 + 「日本酒専用設計」コアメッセージ
+C:\Users\hara\.claude\context\tech\claude-code-tips.md-135-   - モジュール2: 3つの機能訴求（香り/口当たり/温度）+ 写真
+C:\Users\hara\.claude\context\tech\claude-code-tips.md:136:   - モジュール3: 科学的根拠「90%がSHUWANの方が美味しいと回答」
+C:\Users\hara\.claude\context\tech\claude-code-tips.md-137-   - モジュール4: ライフスタイル写真（桐箱ギフトセット）
+C:\Users\hara\.claude\context\tech\claude-code-tips.md-138-4. 画像規格: 最小970×600px（JPEG/PNG）
+C:\Users\hara\.claude\context\tech\claude-code-tips.md-139-5. 申請後72時間でライブ
+--
+C:\Users\hara\.claude\context\reviews\review-communication.md-48-- Shopify ¥312,313（3/27確定）→ CRMツール選定の契機として活用検討
+C:\Users\hara\.claude\context\reviews\review-communication.md-49-
+C:\Users\hara\.claude\context\reviews\review-communication.md-50-### 未着手施策
+C:\Users\hara\.claude\context\reviews\review-communication.md:51:- Amazon「90%おいしい」エビデンス訴求（4月中旬目標）
+C:\Users\hara\.claude\context\reviews\review-communication.md-52-- 父の日LP準備（4月末着手予定）
+C:\Users\hara\.claude\context\reviews\review-communication.md-53-- X/Twitter施策の検討（前回レビューで指摘済み・未対応）
+C:\Users\hara\.claude\context\reviews\review-communication.md-54-
+--
+C:\Users\hara\.claude\context\reviews\review-communication.md-98-1. 花見リール入稿の確定（明日3/31が最終期限）
+C:\Users\hara\.claude\context\reviews\review-communication.md-99-2. ECトップページ改修完了の確認
+C:\Users\hara\.claude\context\reviews\review-communication.md-100-3. ヴィノスやまざきPOP制作（4/1週）
+C:\Users\hara\.claude\context\reviews\review-communication.md:101:4. Amazon「90%おいしい」エビデンス訴求追加（4月中旬）
+C:\Users\hara\.claude\context\reviews\review-communication.md-102-5. 父の日ギフトLP準備着手（4月末）
+C:\Users\hara\.claude\context\reviews\review-communication.md-103-
+C:\Users\hara\.claude\context\reviews\review-communication.md-104----
+--
+C:\Users\hara\.claude\context\reviews\review-communication.md-122-- 不参加の場合もイベント期間の広告強化施策を設計すべき
+C:\Users\hara\.claude\context\reviews\review-communication.md-123-
+C:\Users\hara\.claude\context\reviews\review-communication.md-124-### Makuakeレビュー転用の提案
+C:\Users\hara\.claude\context\reviews\review-communication.md:125:- 「全然違う！」「香りの立ち上がりに驚き」等の実ユーザー声を以下に展開可能：
+C:\Users\hara\.claude\context\reviews\review-communication.md-126-  - Instagram広告クリエイティブ
+C:\Users\hara\.claude\context\reviews\review-communication.md-127-  - Amazon商品ページA+コンテンツ
+C:\Users\hara\.claude\context\reviews\review-communication.md-128-  - EC LPのファーストビュー
+--
+C:\Users\hara\.claude\context\sales\sales-tactics.md-99-1. 輸出単価の試算: FOB価格 = 国内卸値×1.4倍を初期提案（例: 2,800円×1.4 = 3,920円/碗）
+C:\Users\hara\.claude\context\sales\sales-tactics.md-100-2. 梱包仕様: 個装+外箱（12碗/箱）が国際輸送に適切
+C:\Users\hara\.claude\context\sales\sales-tactics.md-101-3. テスト数量: 初回50〜100碗でUSAマーケット検証
+C:\Users\hara\.claude\context\sales\sales-tactics.md:102:4. 提案資料: 「Makuake2,421%達成」「意匠登録」「90%おいしい科学根拠」の英語版サマリーを準備
+C:\Users\hara\.claude\context\sales\sales-tactics.md-103-5. 目標: 4月末までにLOI（意向書）締結
+C:\Users\hara\.claude\context\sales\sales-tactics.md-104-
+C:\Users\hara\.claude\context\sales\sales-tactics.md-105-### 4月の酒販店DM作戦（目標: 30件新規アプローチ）
+--
+C:\Users\hara\.claude\context\reviews\review-market-sales.md-106-|-------|------|------|----------|
+C:\Users\hara\.claude\context\reviews\review-market-sales.md-107-| 最高 | チャンス | CRAFT SAKE WEEK 2026出展（4/3決断期限） | 年間最大の認知×BtoB。スターターセットに酒器付き→酒器関心層に直接リーチ |
+C:\Users\hara\.claude\context\reviews\review-market-sales.md-108-| 高 | チャンス | 花見需要・春ギフト需要（3/31〜4/2週が最終盤） | 桜開花ピーク。退職祝い・入学祝いの春ギフト検索が上昇中 |
+C:\Users\hara\.claude\context\reviews\review-market-sales.md:109:| 高 | チャンス | Makuakeレビューコピー広告転用 | 「90%美味しい」「全然違う！」の未活用。CVR改善の最速施策 |
+C:\Users\hara\.claude\context\reviews\review-market-sales.md-110-| 高 | 課題 | Amazon CVR低迷（推定50%達成） | A+コンテンツ未整備・レビュー数不足が原因と推定 |
+C:\Users\hara\.claude\context\reviews\review-market-sales.md-111-| 高 | 課題 | 外販単価低下（¥2,500→¥1,810） | グラス偏重。磁器碗アップセルで単価改善が急務 |
+C:\Users\hara\.claude\context\reviews\review-market-sales.md-112-| 中 | チャンス | いまでや海外輸出（三者商談進展） | 輸出単価上昇トレンド（1,368円/l）の波に乗れる |
+--
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-26-v3.md-53-4. **中央硝子への食洗機耐久性確認完了**: MakuakeのAFTER対応として品質担保を急ぐ
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-26-v3.md-54-
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-26-v3.md-55-### 優先度B（4月第1週）
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-26-v3.md:56:5. **「90%が美味しい」コピーのECページ・Amazon反映**: WebSearchで確認した最強エビデンスを全ページのファーストビューに
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-26-v3.md-57-6. **ヴィノスやまざきへの見積り提出フォロー**: 既存取引先からのクロスセル受注確定
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-26-v3.md-58-7. **花見シーズン向けInstagram広告**: 桜×日本酒×SHUWANのリール制作・入稿
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-26-v3.md-59-8. **GA4タグ設定**: Shopifyへの導入手順書作成と実施
+--
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-26-v3.md-85-| 競合のAmazon低価格攻勢 | 中 | 低 | 「科学的根拠×日本酒専用」の差別化を徹底。価格競争に入らない |
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-26-v3.md-86-
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-26-v3.md-87-### ポジティブシグナル（v3追加: WebSearch確認）
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-26-v3.md:88:- **「90%が美味しい」の定量エビデンス**: 商品訴求の最強コピーとして全チャネルで活用できる
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-26-v3.md-89-- **CRAFT SAKE WEEK 2026 過去最長13日間**: 日本酒市場全体の盛り上がりがSHUWAN需要を押し上げる
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-26-v3.md-90-- **世界日本酒市場CAGR 5%成長**: 2033年128億ドルへの拡大→海外展開の収益性が期待できる
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-26-v3.md-91-- **いまでや輸出体制の品質**: ブランディング戦略+エデュケーションまで一貫対応の高品質パートナーであることが確認された
+--
+C:\Users\hara\.claude\context\reviews\review-strategy.md-139-### 思想②：GAP要因分析（4軸まとめ）
+C:\Users\hara\.claude\context\reviews\review-strategy.md-140-
+C:\Users\hara\.claude\context\reviews\review-strategy.md-141-**流入:** GA4が3/30まで未設定のため3月全体の流入不明。4/1〜計測開始
+C:\Users\hara\.claude\context\reviews\review-strategy.md:142:**CVR:** 自社EC推定1%以下（目標5%）。根本原因は「90%おいしい」エビデンス未掲載・食洗機問題による訴求制限
+C:\Users\hara\.claude\context\reviews\review-strategy.md-143-**パイプライン:** 酒販店はしゅわんグラス一般販売（3/13）で大幅超過。ECは施策打てず構造的に弱い
+C:\Users\hara\.claude\context\reviews\review-strategy.md-144-**単価:** 実績¥2,580/碗（目標¥3,000の86%）。外販グラス偏重（¥1,810）が主因
+C:\Users\hara\.claude\context\reviews\review-strategy.md-145-
+--
+C:\Users\hara\.claude\context\reviews\review-strategy.md-171-**チャネル配分見直し:**
+C:\Users\hara\.claude\context\reviews\review-strategy.md-172-- 酒販店: 大口3社リピート安定化最優先。DM30件/月継続
+C:\Users\hara\.claude\context\reviews\review-strategy.md-173-- 外販: 磁器碗比率向上（グラス単独でなく碗セット提案を標準化）
+C:\Users\hara\.claude\context\reviews\review-strategy.md:174:- EC/Amazon: 4月中旬までに「90%おいしい」掲載→CVR改善PDCA開始
+C:\Users\hara\.claude\context\reviews\review-strategy.md-175-
+C:\Users\hara\.claude\context\reviews\review-strategy.md-176-**年間着地予測:**
+C:\Users\hara\.claude\context\reviews\review-strategy.md-177-- 現在の月次ランレート: 約185万円/月
+--
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-31.md-47-- 3月全体の流入データが計測されていない
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-31.md-48-- 何人が来てどこで離脱したかが不明なままCVR改善施策を打てない状態が続いた
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-31.md-49-
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-31.md:50:**Why 2（CVR）: 「90%おいしい」エビデンスがECページに未掲載**
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-31.md-51-- 公式サイトの訴求で最強の差別化要素が商品ページのファーストビューにない
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-31.md-52-- 競合（廣田硝子・RIEDEL）に対して科学的根拠を持つSHUWANの最大優位性が活かされていない
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-31.md-53-
+--
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-31.md-101-
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-31.md-102-| 施策 | 計画 | 3月末時点の実績 | 評価 |
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-31.md-103-|------|------|--------------|------|
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-31.md:104:| 広告クリエイティブ整備・配信開始 | 3月完了 | しゅわんグラス広告¥3,500/日稼働（3/30）。花見リール3/31入稿予定 | △：最低限稼働。「90%おいしい」訴求はECページに未掲載 |
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-31.md-105-| 酒販店DM100件送付 | Q1中 | 3月30件程度（推計）。4月30件追加予定 | △：DM送付は継続中だが数量不足 |
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-31.md:106:| Shopify/Amazon商品ページ最適化 | Q1中 | ECトップページ2商品並列表示（3/25依頼）。「90%おいしい」エビデンス未掲載 | ×：最重要施策が未完了 |
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-31.md-107-| MAKUAKE①準備〜ローンチ | 4月着手 | 未着手（計画通り） | ○：4月から着手予定 |
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-31.md-108-| YouTube週1本体制確立 | Q1中 | 状況不明（情報不足） | 情報不足 |
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-31.md-109-
+--
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-30.md-69-| **最高** | 課題 | 花見リール入稿（3/31最終期限）— 未入稿は花見需要の完全機会損失 | 大 | 3/31 |
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-30.md-70-| 高 | チャンス | ヴィノスやまざき×しゅわんグラス新規商談（取引済み先へのクロスセル） | 大 | 4/3 |
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-30.md-71-| 高 | チャンス | いまでや海外輸出（三者商談進展中） | 大 | 4/4 |
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-30.md:72:| 高 | チャンス | Makuakeレビューコピー転用（「全然違う！」「香りに驚き」をEC・広告に即時反映） | 中 | 4/7 |
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-30.md-73-| 高 | 課題 | 外販単価低下（¥2,500→¥1,810）— グラス偏重が売上目標を下押し。碗アップセルが急務 | 中 | 4月 |
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-30.md-74-| 高 | 課題 | ECトップページ改修完了未確認（深田氏3/25着手→5日経過） | 中 | 即日 |
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-30.md-75-| 中 | 課題 | 食洗機品質問題（中央硝子回答待ち） | 中 | 4/7 |
+--
+C:\Users\hara\.claude\context\strategy\daily-review-2026-03-30.md-84-
+
+[Showing results with pagination = limit: 250]

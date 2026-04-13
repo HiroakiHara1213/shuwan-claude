@@ -1,0 +1,12 @@
+{
+  "name": "ga4-mcp-server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "GA4 Data API MCP Server for SHUWAN analytics",
+  "main": "index.js",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "@google-analytics/data": "^4.0.0",
+    "googleapis": "^144.0.0"
+  }
+}

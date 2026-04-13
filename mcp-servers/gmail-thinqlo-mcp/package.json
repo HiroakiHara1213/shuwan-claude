@@ -1,0 +1,10 @@
+{
+  "name": "gmail-thinqlo-mcp",
+  "version": "1.0.0",
+  "description": "Gmail MCP server for hara@thinqlo.co.jp - SHUWAN meeting notes & agenda",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^140.0.0",
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}

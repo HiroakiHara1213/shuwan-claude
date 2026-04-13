@@ -1,0 +1,10 @@
+{
+  "name": "youtube-mcp",
+  "version": "1.0.0",
+  "description": "YouTube Data API v3 MCP Server",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  }
+}
